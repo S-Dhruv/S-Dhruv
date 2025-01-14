@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-dhruv&label=Profile%20views&color=0e75b6&style=flat" alt="s-dhruv" /> </p>
 
-- 🔭 I’m currently working on [Coding Assistant](https://github.com/S-Dhruv/CodingAssistant)
+- 🔭 I’m currently working on [Coding Assistant](https://github.com/S-Dhruv/codingAssistant)
 
 - 🌱 I’m currently learning **MERN, Java SpringBoot**
 
