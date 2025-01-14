@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-dhruv&label=Profile%20views&color=0e75b6&style=flat" alt="s-dhruv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-dhruv" alt="s-dhruv" /></a> </p>
-
 - 🔭 I’m currently working on [Coding Assistant](https://github.com/S-Dhruv/CodingAssistant)
 
 - 🌱 I’m currently learning **MERN, Java SpringBoot**
