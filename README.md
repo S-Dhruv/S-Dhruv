@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Coding Assistant](https://github.com/S-Dhruv/codingAssistant)
 
-- 🌱 I’m currently learning **MERN, Java SpringBoot**
+- 🌱 I’m currently learning **MongoDB, ExpressJs, ReactJs, NodeJs**
 
-- 💬 Ask me about **MERN, Java SpringBoot, DSA with Java**
+- 💬 Ask me about **I love to orate and code. Planning to explore deeper into low level processes and become a better engineer.**
 
 - 📫 How to reach me **dhruvsshah171@gmail.com**
 
