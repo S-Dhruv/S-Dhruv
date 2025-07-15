@@ -68,7 +68,7 @@ Dynamic event updates + access-controlled editing
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=S-Dhruv&show_icons=true&theme=tokyonight&count_private=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Dhruv&layout=compact&theme=tokyonight&hide=python" height="180" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=S-Dhruv&show_icons=true&theme=tokyonight&count_private=true" height="180" />  </p>
 🌐 Connect with Me
 <p align="center"> <a href="https://www.linkedin.com/in/dhruv-shah77/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="mailto:dhruvsshah171@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /> </a> </p>
 <p align="center"> <em>“You should enjoy the little detours. Because that's where you'll find the things more important than what you want.” – Ichigo Kurosaki</em> </p> 
