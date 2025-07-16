@@ -12,7 +12,7 @@
 ```ts
 const Dhruv = {
   pronouns: "He/Him",
-  techStack: ["JavaScript", , "React", "Next.js", "Node.js", "MongoDB", "LangChain"],
+  techStack: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "MongoDB", "LangChain"],
   hobbies: ["Football", "Dancing", "Hackathons", "Anchoring"],
   learning: ["DevOps", ".NET Core", "AI Assistants", "System Design"],
   quote: "Consistency beats talent when talent doesn’t work hard."
