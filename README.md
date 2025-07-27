@@ -19,6 +19,18 @@ const Dhruv = {
 };
 ```
 
+
+<p align="center"> <em>“You should enjoy the little detours. Because that's where you'll find the things more important than what you want.” – Ichigo Kurosaki</em> </p> 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=S-Dhruv&show_icons=true&count_private=true&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=S-Dhruv&langs_count=10&show_icons=true&layout=compact&theme=algolia" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Dhruv&theme=algolia&hide_border=false" />
+</p>
+
 ## 🛠 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -33,7 +45,6 @@ const Dhruv = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
@@ -93,13 +104,3 @@ Dynamic event updates + access-controlled editing
 
 💪 Hackathon mentor & team leader across 5+ events
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=S-Dhruv&show_icons=true&count_private=true&theme=algolia" />
-  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=S-Dhruv&langs_count=10&show_icons=true&layout=compact&theme=algolia" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Dhruv&theme=algolia&hide_border=false" />
-</p>
-
-<p align="center"> <em>“You should enjoy the little detours. Because that's where you'll find the things more important than what you want.” – Ichigo Kurosaki</em> </p> 
