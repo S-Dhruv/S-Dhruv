@@ -25,8 +25,10 @@ const Dhruv = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=S-Dhruv&show_icons=true&count_private=true&theme=algolia" />
-  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=S-Dhruv&langs_count=10&show_icons=true&layout=compact&theme=algolia" />
+ <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=S-Dhruv&langs_count=10&layout=compact&theme=algolia&cache_seconds=3600" />
+
+  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=S-Dhruv&show_icons=true&count_private=true&theme=algolia&cache_seconds=3600" />
+
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Dhruv&theme=algolia&hide_border=false" />
 </p>
