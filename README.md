@@ -18,9 +18,36 @@ const Dhruv = {
   quote: "Consistency beats talent when talent doesn’t work hard."
 };
 ```
-### 🛠 Tech Stack & Tools
 
-<p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" /> <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff" /> <img src="https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=fff" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css" /> <img src="https://img.shields.io/badge/LangChain-000?style=flat&logo=langchain" /> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc" /> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io" /> </p>
+## 🛠 Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+---
 
 ### 🚀 Featured Projects
 #### 🔧 DevSync
@@ -66,9 +93,13 @@ Dynamic event updates + access-controlled editing
 
 💪 Hackathon mentor & team leader across 5+ events
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=S-Dhruv&show_icons=true&theme=tokyonight&count_private=true" height="180" />  </p>
-🌐 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/dhruv-shah77/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="mailto:dhruvsshah171@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /> </a> </p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=S-Dhruv&show_icons=true&count_private=true&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=S-Dhruv&langs_count=10&show_icons=true&layout=compact&theme=algolia" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Dhruv&theme=algolia&hide_border=false" />
+</p>
+
 <p align="center"> <em>“You should enjoy the little detours. Because that's where you'll find the things more important than what you want.” – Ichigo Kurosaki</em> </p> 
