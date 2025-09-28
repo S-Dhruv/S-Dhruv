@@ -103,5 +103,5 @@ Dynamic event updates + access-controlled editing
 
 🎤 Core Committee – Literary Debate Club, CVR
 
-💪 Hackathon mentor & team leader across 5+ events
+💪 Hackathon participant across 5+ events
 
