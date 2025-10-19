@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! I'm Dhruv 👋</h1>
 
 <p align="center">
-  <em>🚀 Full Stack Developer | 💡 Hackathon Enthusiast | ⚽ Footballer | 🧠 AI Explorer</em>
+  <em>🚀 Full Stack Developer | 💡 Hackathon Enthusiast | ⚽ Footballer | 🧠 Information Technology</em>
 </p>
 
 ---
@@ -14,7 +14,7 @@ const Dhruv = {
   pronouns: "He/Him",
   techStack: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "MongoDB", "LangChain"],
   hobbies: ["Football", "Dancing", "Hackathons", "Anchoring"],
-  learning: ["DevOps", ".NET Core", "AI Assistants", "System Design"],
+  learning: ["DevOps", "AWS", "Docker", "System Design"],
   quote: "Consistency beats talent when talent doesn’t work hard."
 };
 ```
