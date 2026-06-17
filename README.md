@@ -1,20 +1,19 @@
 
-<h1 align="center">Hey there! I'm Dhruv 👋</h1>
+<h1 align="center">Hey there! I'm Dhruv </h1>
 
 <p align="center">
-  <em>🚀 Full Stack Developer | 💡 Hackathon Enthusiast | ⚽ Footballer | 🧠 Information Technology</em>
+  <em> Full Stack Developer | Hackathon Enthusiast | Footballer | Information Technology</em>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 ```ts
 const Dhruv = {
   pronouns: "He/Him",
-  techStack: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "MongoDB", "LangChain"],
-  hobbies: ["Football", "Dancing", "Hackathons", "Anchoring"],
-  learning: ["DevOps", "AWS", "Docker", "System Design"],
+  techStack: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "MongoDB", "LangChain", "Spring Boot", "Angular"],
+  hobbies: ["Football", "Gaming", "Reading", "Exploring tech"],
   quote: "Consistency beats talent when talent doesn’t work hard."
 };
 ```
@@ -60,48 +59,4 @@ const Dhruv = {
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ---
-
-### 🚀 Featured Projects
-#### 🔧 DevSync
-MERN • Tailwind CSS • Socket.IO • WebRTC • LangChain
-
-Real-time collaborative coding platform with Monaco editor
-
-500ms delay sync for accuracy
-
-Audio/Video via WebRTC & quizzes via LangChain
-
-#### 📣 BrandBoost
-MERN • Tailwind CSS • Gemini AI • Socket.IO
-
-Business + freelancer collaboration rooms with real-time tasks
-
-3-tier access: Admin, Freelancer, Business
-
-Gemini AI for content generation
-
-#### 🎯 HireAI
-MERN • Tailwind CSS • LangChain
-
-Simulates job interviews with scoring + feedback
-
-5+ custom LangChain chains
-
-Voice questions using Web Speech API
-
-#### 🗣️ CVR LDC Website
-Next.js • Tailwind CSS
-
-Official storytelling/public speaking site for LDC
-
-Dynamic event updates + access-controlled editing
-
-### 🏆 Achievements
-🥇 1st Place – GDSC Bit n Build Hackathon 2024
-
-🥈 Finalist – CVR Inno-va-thon 2.0
-
-🎤 Core Committee – Literary Debate Club, CVR
-
-💪 Hackathon participant across 5+ events
 
