@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! I'm Dhruv </h1>
 
 <p align="center">
-  <em> Full Stack Developer | Hackathon Enthusiast | Footballer | Information Technology</em>
+  <em> FSoftware Developer | Tech Enthusiast | Footballer | Information Technology</em>
 </p>
 
 ---
